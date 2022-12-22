@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 3 mpenyaes mpenyaes 4096 dic 22 17:06 .
+drwxrwxr-x 3 mpenyaes mpenyaes 4096 dic 22 16:38 ..
+drwxrwxr-x 8 mpenyaes mpenyaes 4096 dic 22 17:05 .git
+-rw-rw-r-- 1 mpenyaes mpenyaes    0 dic 22 17:06 ls.txt
+-rw-rw-r-- 1 mpenyaes mpenyaes    8 dic 22 16:39 README.md
